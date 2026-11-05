@@ -1,0 +1,12 @@
+{
+  "name": "vle7-app",
+  "version": "1.0.0",
+  "description": "Jenkins Kubernetes CI/CD application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
